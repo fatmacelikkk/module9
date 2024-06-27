@@ -1,7 +1,7 @@
 # module9
 from pycsp3 import *
 
-n = data
+n = 8
 
 # q[i] is the column of the ith queen (at row i)
 q = VarArray(size=n, dom=range(n))
