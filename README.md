@@ -1,4 +1,4 @@
-from pycsp3 import *
+from pycsp3 import
 
 n = 8
 
