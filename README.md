@@ -1,4 +1,3 @@
-# module9
 from pycsp3 import *
 
 n = 8
